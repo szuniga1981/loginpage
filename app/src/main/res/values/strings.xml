@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">login page</string>
+    <string name="nombre">nombre</string>
+    <string name="ingresa_nombre">ingresa nombre</string>
+    <string name="textview">TextView</string>
+    <string name="establecer_is_enabled">Establecer is Enabled</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="mail">Mail</string>
+    <string name="ingesa_tu_mail">Ingesa tu Mail</string>
+    <string name="ingresa_tu_mail">ingresa tu mail</string>
+    <string name="ingresa_tu_contrase_a">Ingresa tu Contraseña</string>
+    <string name="re_ingresa_tu_contrase_a">Re-Ingresa tu Contraseña</string>
+    <string name="ingresa_tu_apellido">ingresa tu apellido</string>
+    <string name="ingresa_tu_nombre">ingresa tu nombre</string>
+    <string name="ingesa_tu_edad">Ingesa tu edad</string>
+    <string name="sexo">sexo</string>
+    <string name="ingresa_los_datos_para_registrarte">ingresa los datos para registrarte</string>
+    <string name="ingresa_tu_edadngresa_los_datos_para_registrarte">ingresa_tu_edadngresa_los_datos_para_registrarte</string>
+    <string name="ingesa_los_datos_para_registrarte">Ingesa los datos para registrarte</string>
+    <string name="ingresa_los_datos_para_registrar">Ingresa los datos para registrar</string>
+
+
+</resources>

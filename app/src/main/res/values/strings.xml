@@ -19,7 +19,14 @@
     <string name="ingresa_tu_edadngresa_los_datos_para_registrarte">ingresa_tu_edadngresa_los_datos_para_registrarte</string>
     <string name="ingesa_los_datos_para_registrarte">Ingesa los datos para registrarte</string>
     <string name="ingresa_los_datos_para_registrar">Ingresa los datos para registrar</string>
+    <string name="bienvenido_a_mi_app">Bienvenido a mi App</string>
+    <string name="ingresa_tu_nombre_de_usuario">Ingresa tu nombre de Usuario</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="password">password</string>
+    <string name="re_ingresa_password">re-ingresa password</string>
+    <string name="ingreso_de_usuario">ingreso de usuario</string>
 
+    <string name="ingresar">ingresar</string>
 
 
 </resources>
